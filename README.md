@@ -1,6 +1,6 @@
 # 🛡️ Hey there, I'm Adrian
 
-I'm a recent high school grad and a **cybersecurity enthusiast** with a deep interest in ethical hacking, malware analysis, and system exploitation. I'm all about understanding how things break—so I can learn how to build them stronger 💪.
+I am a **cybersecurity enthusiast** with a deep interest in ethical hacking, malware analysis, and system exploitation. I'm all about understanding how things break—so I can learn how to build them stronger 💪.
 
 Right now, I’m diving into the world of **ethical hacking**, **reverse engineering**, and **network security**, while sharpening my skills in **Python**, **JavaScript**, and **C**.
 
