@@ -46,9 +46,6 @@ Right now, I’m diving into the world of **ethical hacking**, **reverse enginee
 - 📂 Playing in virtual labs (TryHackMe, Hack The Box)
 - 🔍 Writing small tools & scripts to automate tasks
 
----
-
-## 📈 GitHub Stats
 
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
