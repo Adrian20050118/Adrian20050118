@@ -46,12 +46,7 @@ Right now, I’m diving into the world of **ethical hacking**, **reverse enginee
 - 📂 Playing in virtual labs (TryHackMe, Hack The Box)
 - 🔍 Writing small tools & scripts to automate tasks
 
-
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-<!-- Optional: Top languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ---
+⚠️ All tools and scripts shared here are for **educational purposes only**. I do not condone or support any illegal or unethical use of this code.
 
 > 🎯 *“You don’t really know something until you can break it and fix it again.”*
